@@ -67,7 +67,7 @@ This causes the external command to fire.
 Demo_Development_Editor: play NameAnyGameEvent
 ```
 
-**Save the lavel to save the blueprint changes.**
+**Save the level to save the blueprint changes.**
 ![image_15](images/image_15.png)
 
 **All `Chroma` and haptics events can be controlled via the [WYVRN Configuration](https://doc.wyvrn.com/docs/wyvrn-sdk/wyvrn-configuration/) and that needs to be created at `C:\Program Files (x86)\InterHaptics\HapticFolders\Title`.**
