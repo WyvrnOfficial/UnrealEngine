@@ -71,3 +71,15 @@ Demo_Development_Editor: play NameAnyGameEvent
 ![image_15](images/image_15.png)
 
 **All `Chroma` and haptics events can be controlled via the [WYVRN Configuration](https://doc.wyvrn.com/docs/wyvrn-sdk/wyvrn-configuration/) and that needs to be created at `C:\Program Files (x86)\InterHaptics\HapticFolders\Title_Configuration`.**
+
+**Use [SynesthesiaServer.exe](https://github.com/WyvrnOfficial/RazerSensa_DevKit/tree/master/Apps/Synesthesia/ReleaseConsole) from the WyvrnOfficial Github repository to verify event names are being sent properly by the game events.**
+
+The public repository can be downloaded or cloned to get access to the tools.
+
+```shell
+git clone https://github.com/WyvrnOfficial/RazerSensa_DevKit
+```
+
+Use `Apps/Synesthesia/ReleaseConsole/SynesthesiaServer.exe` in order to view game events sent by `SetEventName`.
+
+![image_16](images/image_16.png)
