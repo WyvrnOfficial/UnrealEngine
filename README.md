@@ -70,7 +70,11 @@ Demo_Development_Editor: play NameAnyGameEvent
 **Save the level to save the blueprint changes.**
 ![image_15](images/image_15.png)
 
-**All `Chroma` and haptics events can be controlled via the [WYVRN Configuration](https://doc.wyvrn.com/docs/wyvrn-sdk/wyvrn-configuration/) and that needs to be created at `C:\Program Files (x86)\InterHaptics\HapticFolders\Title_Configuration`.**
+**`Chroma` and haptics events can be controlled via the [WYVRN Configuration](https://doc.wyvrn.com/docs/wyvrn-sdk/wyvrn-configuration/) and the game can create a custom configuration that is used from `C:\Program Files (x86)\InterHaptics\HapticFolders\Title_Configuration`.**
+
+The [WYVRN Effect Library](https://chroma.razer.com/WyvrnEffectsLibrary/) provides a set of existing event names to choose from.
+
+![image_17](images/image_17.png)
 
 **Use [SynesthesiaServer.exe](https://github.com/WyvrnOfficial/RazerSensa_DevKit/tree/master/Apps/Synesthesia/ReleaseConsole) from the WyvrnOfficial Github repository to verify event names are being sent properly by the game events.**
 
