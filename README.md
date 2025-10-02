@@ -4,6 +4,10 @@ See [WYVRN Documentation](https://doc.wyvrn.com/) for the latest info.
 
 The WYVRN SDK is part of the Unreal Engine which can be used to control `Chroma` and haptics.
 
+For the latest setup instructions see the `WYVRN` [Epic MegaJam 2025 Documentation](https://doc.wyvrn.com/docs/wyvrn-sdk/epic-megajam-2025/).
+
+The pre-released installer for the [WYVRN SDK Runtime](https://github.com/WyvrnOfficial/UnrealEngine/releases/tag/wyvrn_sdk_runtime) can be found in `Github Releases`.
+
 ## Getting Started
 
 **To get started open Unreal Engine.**
